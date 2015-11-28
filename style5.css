@@ -1,0 +1,23 @@
+.soc{
+border: 1px solid grey;
+border-radius: 21px;
+width: 42px;
+height: 42px;
+cursor: pointer;
+box-shadow: 0 0 5px gray;
+}
+.first{
+display: block;	
+}
+.second{
+display: none;
+}
+.soc:hover{
+background-color: gray;
+}
+.soc:hover .second{
+display: block;	
+}
+/*
+try.github.ic
+*/
